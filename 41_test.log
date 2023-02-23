@@ -1,0 +1,52 @@
+2023-02-23 05:34:34,921 WARNING MainThread This is my warning message
+2023-02-23 05:34:34,921 ERROR MainThread This is my error message
+2023-02-23 05:34:34,922 CRITICAL MainThread This is my critical message
+2023-02-23 07:54:16,105 INFO MainThread i'm traversing in loop
+2023-02-23 07:54:16,106 INFO MainThread i'm traversing in loop
+2023-02-23 07:54:16,106 INFO MainThread i'm traversing in loop
+2023-02-23 07:54:16,106 INFO MainThread i'm traversing in loop
+2023-02-23 07:54:16,107 INFO MainThread i'm traversing in loop
+2023-02-23 07:54:16,107 INFO MainThread i'm inside the if statement and i'm checking type pf list
+2023-02-23 07:54:16,107 INFO MainThread i'm traversing in loop
+2023-02-23 07:54:16,107 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm inside the if statement and i'm checking type of list[1, 2, 34, 9, [67, 0, 99], 'ashu', 'codewithharry']
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:57:39,099 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,923 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,923 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,923 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,924 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,924 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,924 INFO MainThread i'm inside the if statement and i'm checking type of list [1, 2, 34, 9, [67, 0, 99], 'ashu', 'codewithharry']
+2023-02-23 07:59:58,924 INFO MainThread i'm traversing in loop
+2023-02-23 07:59:58,924 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,503 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,503 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,503 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,503 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,504 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,504 INFO MainThread i'm inside the if statement and i'm checking type of list [1, 2, 34, 9, [67, 0, 99], 'ashu', 'codewithharry']
+2023-02-23 08:00:09,504 INFO MainThread i'm traversing in loop
+2023-02-23 08:00:09,504 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,965 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,965 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,965 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,965 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,965 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,966 INFO MainThread i'm inside the if statement and i'm checking type of list [1, 2, 34, 9, [67, 0, 99], 'ashu', 'codewithharry']
+2023-02-23 08:02:34,966 INFO MainThread i'm traversing in loop
+2023-02-23 08:02:34,966 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,236 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,237 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,237 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,237 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,237 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,237 INFO MainThread i'm inside the if statement and i'm checking type of list [1, 2, 34, 9, [67, 0, 99], 'ashu', 'codewithharry']
+2023-02-23 08:03:07,237 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,237 INFO MainThread i'm traversing in loop
+2023-02-23 08:03:07,238 INFO MainThread Final integer list [1, 2, 34, 9, 67, 0, 99] and final string list ['ashu', 'codewithharry']
