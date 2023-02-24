@@ -1,0 +1,10 @@
+ERROR:root:division by zero
+ERROR:root:division by zero
+ERROR:root:I'm trying to catch errors : division by zero
+ERROR:root:division by zero
+ERROR:root:I'm trying to catch errors: division by zero
+
+ERROR:root:
+ division by zero
+ERROR:root:
+I'm trying to catch errors: division by zero
