@@ -1,0 +1,31 @@
+Certainly! Here's a Python program that reads a text file, counts the number of words, and displays the count as output:
+
+```python
+def count_words(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            text = file.read()
+            words = text.split()
+            word_count = len(words)
+            return word_count
+    except FileNotFoundError:
+        print("File not found.")
+        return 0
+
+# Example usage:
+file_path = 'example.txt'
+word_count = count_words(file_path)
+print("Number of words in the file:", word_count)
+```
+
+In this program, the `count_words` function takes a file path as an argument. It opens the file using `open(file_path, 'r')`, reads the contents using `file.read()`, and splits the text into individual words using `.split()`. The number of words is then determined by the length of the resulting list.
+
+The program also includes exception handling using a `try-except` block. If the file is not found, a `FileNotFoundError` is raised, and a corresponding error message is displayed.
+
+To use the program, you need to specify the file path of the text file you want to count the words for by assigning it to the `file_path` variable. Then, you can call the `count_words` function with the file path as an argument. The program will display the number of words in the file.
+
+Make sure to replace `'example.txt'` with the actual file path of the text file you want to count the words for.
+
+Note: The program counts the words based on spaces and does not consider punctuation marks or other delimiters as separate words. If you want to include punctuation marks as separate words, you can use regular expressions or other text processing techniques to split the text accordingly.
+
+If you have any further questions, feel free to 
